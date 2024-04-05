@@ -1,0 +1,10 @@
+{
+  "name": "ms-training-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rafael Sales",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.4.4"
+  }
+}
